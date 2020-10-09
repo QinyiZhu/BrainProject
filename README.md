@@ -18,5 +18,7 @@ This application uses the Clarifai machine learning API to identify faces in pho
 1. [ReactJS](https://reactjs.org/) is used for this Single-page web framework. 
 2. React Portal is used to create a modal for user profile.
 3. React-router is used for dynamically routing between pages.
-4. Uses JSON Web Tokens as well as server session for user authentication to create efficient communication between server and browser. In-memory database Redis is used for user info storage in sessions. Bcrypt is used to hash users' passwords for database sercurity.
-5. Reactstrap is used for responsive webpage design.
+4. Uses JSON Web Tokens as well as server session for user authentication to create efficient communication between server and browser. 
+5. In-memory database Redis is used for user info storage in sessions. 
+6. Bcrypt is used to hash users' passwords for database sercurity.
+7. Reactstrap is used for responsive webpage design.
