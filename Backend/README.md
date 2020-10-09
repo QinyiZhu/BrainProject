@@ -25,5 +25,5 @@ This is the backend of the Brain Project. This application uses the Clarifai mac
 * [JSON Web Token](https://jwt.io/) - HTTP Authorization standard
 * [Bcrypt](https://www.npmjs.com/package/bcrypt) - A library to hash user password
 * [Knex](http://knexjs.org/) - An SQL query builder in Node.JS 
-
+* [Clarifai](https://www.clarifai.com/) - A machine learning API
 
