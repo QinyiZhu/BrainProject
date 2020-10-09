@@ -11,7 +11,15 @@ This is the frontend of the Brain Project. This application uses the Clarifai ma
 3. Run `npm start`
 
 ## Screenshots
-![Screenshot]()
+### Log-in page: 
+<img src="https://github.com/QinyiZhu/BrainProject/blob/master/Frontend/screenshots/login.png" width="600">
+
+### Searching page: 
+<img src="https://github.com/QinyiZhu/BrainProject/blob/master/Frontend/screenshots/search.png" width="600">
+
+### User Profile Modal:
+<img src="https://github.com/QinyiZhu/BrainProject/blob/master/Frontend/screenshots/profile.png" width="600">
+
 
 ## Built With
 * [ReactJS](https://reactjs.org/) - The web framework used
