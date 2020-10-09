@@ -16,9 +16,6 @@ This is the backend of the Brain Project. This application uses the Clarifai mac
 4. Run `npm install`
 5. Run `npm start`
 
-## Screenshots
-![Screenshot]()
-
 ## Built With
 * [Node.js](https://nodejs.org/en/) - The backend server framework
 * [Express.js](https://expressjs.com/) - Node.js web application framework
