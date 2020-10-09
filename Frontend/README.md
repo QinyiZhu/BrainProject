@@ -12,7 +12,7 @@ This is the frontend of the Brain Project. This application uses the Clarifai ma
 
 ## Screenshots
 ### Log-in page: 
-<img src="https://github.com/QinyiZhu/BrainProject/blob/master/Frontend/screenshots/login.png" width="600">
+<img src="https://github.com/QinyiZhu/BrainProject/blob/master/Frontend/screenshots/signin.png" width="600">
 
 ### Searching page: 
 <img src="https://github.com/QinyiZhu/BrainProject/blob/master/Frontend/screenshots/search.png" width="600">
